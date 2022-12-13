@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&family=Roboto:wght@300;400&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto',sans-serif;
+
+    &::-webkit-scrollbar{
+        display: none;
+    }
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
